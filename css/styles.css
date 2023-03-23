@@ -81,6 +81,11 @@ a:hover {
   text-decoration: underline;
 }
 
+.pro:hover {
+  background-color:#03cbcb;
+  color:#EAF6F6
+}
+
 .intro {
   width: 30%;
   margin: auto;
