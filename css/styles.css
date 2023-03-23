@@ -29,6 +29,10 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
+#intro, #workExperience, #contact-me {
+  padding-top: 80px;
+}
+
 
 p {
   line-height: 2;
