@@ -5,6 +5,8 @@
 .arthur:hover{
   margin-bottom: 25px;
   transform: scale(1.2);
+  border-radius:50%;
+  box-shadow: 3px 3px 3px 3px grey;
 }
 
 a {
